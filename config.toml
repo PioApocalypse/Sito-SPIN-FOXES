@@ -36,29 +36,34 @@ ignoreLogs = ['warning-goldmark-raw-html'] # Sopprime warn 'Raw HTML omitted whi
 
 
 [[menu.main]]
-	name = 'Services'
-	url = '/services/'
+    name = 'Abstract'
+    url = '/about/'
     weight = 1
 
 [[menu.main]]
-    name = 'Work'
+    name = 'Seminars'
     url = '/work/'
     weight = 2
 
 [[menu.main]]
-    name = 'About'
-    url = '/about/'
+    name = 'Workshops'
+    url = '/work/'
+    weight = 2
+
+[[menu.main]]
+	name = 'Publications'
+	url = '/services/'
     weight = 3
 
 [[menu.main]]
-    name = 'History'
+    name = 'Our Team'
     url = '/history/'
-    weight = 3
+    weight = 4
 
 [[menu.main]]
-    name = 'Contact'
-    url = '/contact/'
-    weight = 4
+    name = 'Headquarter'
+    url = '/cnr-spin/'
+    weight = 5
 
 [permalinks]
   post = '/:year/:month/:day/:slug/'
