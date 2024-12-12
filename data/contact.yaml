@@ -1,25 +1,26 @@
-email: 'example@example.com'
-phone: 'XXXX XXX XXX'
+email: 'segreteria@spin.cnr.it'
+pec: 'spin@pec.cnr.it'
+#phone: '+39 010 6598710 (SPIN Genoa)'
 businessName: 'Hugo Serif'
 address: |
-  123 Some Street
-  City, State 12345
+  Via Cintia, Complesso Universitario di Monte Sant'Angelo
+  Edificio n. 6, 80126 Napoli, Italy 
 hours:
   - day: Monday
-    open: 8:30am
-    close: 5:00pm
+    open: 9:30
+    close: 13:00
   - day: Tuesday
-    open: 8:30am
-    close: 5:00pm
+    open: 9:30
+    close: 13:00
   - day: Wednesday
-    open: 8:30am
-    close: 5:00pm
+    open: 9:30
+    close: 13:00
   - day: Thursday
-    open: 8:30am
-    close: 5:00pm
+    open: 9:30
+    close: 13:00
   - day: Friday
-    open: 8:30am
-    close: 5:00pm
+    open: 9:30
+    close: 13:00
   - day: Saturday
     open: Closed
     close:

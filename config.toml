@@ -61,10 +61,14 @@ ignoreLogs = ['warning-goldmark-raw-html'] # Sopprime warn 'Raw HTML omitted whi
     weight = 4
 
 [[menu.main]]
-    name = 'Headquarter'
-    url = '/cnr-spin/'
+    name = 'Headquarters'
+    url = '/hq/'
     weight = 5
 
 [permalinks]
   post = '/:year/:month/:day/:slug/'
   pages = '/:filename/'
+
+[security]
+[security.exec]
+  allow = ['^asciidoctor$']
