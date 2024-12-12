@@ -12871,11 +12871,11 @@ ul.social {
     font-weight: bold !important;
     font-family: 'Titillium Web', sans-serif, Arial, Helvetica; }
     .hero-image .hero-text h1, .hero-image .hero-text .h1 {
-      font-size: 3rem;
+      font-size: 6rem;
       font-weight: bold !important; }
       @media (min-width: 768px) {
         .hero-image .hero-text h1, .hero-image .hero-text .h1 {
-          font-size: 4rem;
+          font-size: 8rem;
           width: 80%; } }
     .hero-image .hero-text h2, .hero-image .hero-text .h2 {
       font-size: 2.2rem; }
@@ -12883,12 +12883,12 @@ ul.social {
         .hero-image .hero-text h2, .hero-image .hero-text .h2 {
           font-size: 2.4rem; } }
     .hero-image .hero-text p {
-      font-size: 1.6rem;
+      font-size: 2rem;
       line-height: 1.3; }
       @media (min-width: 768px) {
         .hero-image .hero-text p {
-          font-size: 1.6rem;
-          width: 60%; } }
+          font-size: 2rem;
+          width: 80%; } }
   .hero-image .hero-down {
     flex: 0;
     text-align: center;
