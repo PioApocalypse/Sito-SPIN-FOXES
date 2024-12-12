@@ -1,6 +1,6 @@
 baseURL = 'https://www.foxes.spin.cnr.it/'
 languageCode = 'en-us'
-title = 'F.O.X.E.S.'
+title = 'FOXES'
 themeDir = 'themes'
 theme = 'hugo-hero-theme'
 
@@ -56,7 +56,7 @@ ignoreLogs = ['warning-goldmark-raw-html'] # Sopprime warn 'Raw HTML omitted whi
     weight = 3
 
 [[menu.main]]
-    name = 'Our Team'
+    name = 'Team'
     url = '/history/'
     weight = 4
 
@@ -71,4 +71,7 @@ ignoreLogs = ['warning-goldmark-raw-html'] # Sopprime warn 'Raw HTML omitted whi
 
 [security]
 [security.exec]
-  allow = ['^asciidoctor$']
+  allow = ['^asciidoctor$'] # allow asciidoctor
+
+[markup.goldmark.renderer]
+  unsafe = true # allow raw HTML rendering
