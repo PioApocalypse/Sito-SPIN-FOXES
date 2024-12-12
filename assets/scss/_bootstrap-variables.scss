@@ -18,6 +18,7 @@ $grid-gutter-width: 20px;
 $white: #F7F5FB;
 $black: #000000;
 $primary: #084887;//{{ .Site.Params.colors.primary_color }};
+$navbar: #2F9C95;
 $secondary: #C96480;
 $auxiliary: #dabbba;// aggiunto io
 
@@ -36,8 +37,7 @@ $link-hover-color: lighten($primary, 20%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: 'Open Sans', 'Helvetica Neue', Arial, sans-serif,
-  -apple-system;
+$font-family-base: 'Open Sans', 'Helvetica Neue', sans-serif, Arial, -apple-system;
 $font-family-heading: 'Lato', 'Helvetica Neue', Arial, sans-serif, -apple-system;
 $font-size-base: 1rem; // Assumes the browser default, typically `16px`
 $font-weight-thin: 200;

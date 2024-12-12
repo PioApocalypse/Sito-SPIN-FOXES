@@ -74,7 +74,7 @@
   --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(247, 245, 251, 0.15), rgba(247, 245, 251, 0));
-  --bs-body-font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  --bs-body-font-family: "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.6;
@@ -4943,7 +4943,7 @@ textarea.form-control-lg {
   z-index: var(--bs-tooltip-zindex);
   display: block;
   margin: var(--bs-tooltip-margin);
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
   font-style: normal;
   font-weight: 400;
   line-height: 1.6;
@@ -5040,7 +5040,7 @@ textarea.form-control-lg {
   z-index: var(--bs-popover-zindex);
   display: block;
   max-width: var(--bs-popover-max-width);
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
   font-style: normal;
   font-weight: 400;
   line-height: 1.6;
@@ -12278,14 +12278,14 @@ ol {
 
 .header {
   color: #084887;
-  background-color: #2F9C95;
+  background-color: #237570;
   display: flex;
   justify-content: space-between;
   align-items: center;
   box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2);
   height: 60px; }
   .header span {
-    color: #dabbba;
+    color: #F7F5FB;
     font-weight: bold; }
   .header .container {
     display: flex;
@@ -12631,7 +12631,7 @@ ul.social {
     color: #222222; }
 
 .title-2 {
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
   font-weight: light;
   color: #333333;
   font-size: 2.4rem; }
@@ -12642,7 +12642,7 @@ ul.social {
     display: block; }
 
 .title-3 {
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
   font-weight: 600;
   color: #2b2b39;
   font-size: 1.9rem;
@@ -12670,7 +12670,7 @@ ul.social {
 
 .content p {
   color: #4e4e4e;
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system; }
+  font-family: "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system; }
 
 .content h1, .content .h1 {
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
@@ -12850,7 +12850,6 @@ ul.social {
 .hero-image {
   background-size: cover;
   background-repeat: no-repeat;
-  background-blend-mode: overlay;
   background-color: #084887;
   height: 400px;
   position: relative;
@@ -12867,7 +12866,8 @@ ul.social {
     color: #ffffff;
     margin: auto 0;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-    font-weight: bold !important; }
+    font-weight: bold !important;
+    font-family: sans-serif, Arial, Helvetica; }
     .hero-image .hero-text h1, .hero-image .hero-text .h1 {
       font-size: 3rem; }
       @media (min-width: 768px) {
@@ -12898,7 +12898,8 @@ ul.social {
     font-weight: normal; }
 
 .hero-image-fullscreen {
-  height: 100vh; }
+  height: 100vh;
+  background-blend-mode: normal; }
 
 .hero-image-setheight {
   height: 460px; }

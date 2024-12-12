@@ -1,14 +1,15 @@
 .header {
   color: $primary;
-  background-color: #2F9C95;
+  background-color: darken($navbar, 10%);
   display: flex;
   justify-content: space-between;
   align-items: center;
   box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2);
   height: 60px;
   span {
-    color: $auxiliary;
+    color: $white;
     font-weight: bold;
+    // text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; // alto contrasto pulsanti navbar
   }
   .container {
     display: flex;
