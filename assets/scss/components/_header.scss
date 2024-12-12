@@ -8,8 +8,12 @@
   height: 60px;
   span {
     color: $white;
-    font-weight: bold;
+    // font-weight: bold;
     // text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; // alto contrasto pulsanti navbar
+  }
+  // grassetto quando il puntatore passa sui box del menù
+  [class^="menu-item-"]:hover {
+    font-weight: bold;
   }
   .container {
     display: flex;

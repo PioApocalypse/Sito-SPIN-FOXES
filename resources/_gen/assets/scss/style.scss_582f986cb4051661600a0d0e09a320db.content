@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400|Open+Sans:400,700");
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap");
 /*!
    * Bootstrap  v5.3.0 (https://getbootstrap.com/)
    * Copyright 2011-2023 The Bootstrap Authors
@@ -74,7 +75,7 @@
   --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(247, 245, 251, 0.15), rgba(247, 245, 251, 0));
-  --bs-body-font-family: "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
+  --bs-body-font-family: "Titillium Web", "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.6;
@@ -4943,7 +4944,7 @@ textarea.form-control-lg {
   z-index: var(--bs-tooltip-zindex);
   display: block;
   margin: var(--bs-tooltip-margin);
-  font-family: "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
+  font-family: "Titillium Web", "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
   font-style: normal;
   font-weight: 400;
   line-height: 1.6;
@@ -5040,7 +5041,7 @@ textarea.form-control-lg {
   z-index: var(--bs-popover-zindex);
   display: block;
   max-width: var(--bs-popover-max-width);
-  font-family: "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
+  font-family: "Titillium Web", "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
   font-style: normal;
   font-weight: 400;
   line-height: 1.6;
@@ -12285,7 +12286,8 @@ ol {
   box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2);
   height: 60px; }
   .header span {
-    color: #F7F5FB;
+    color: #F7F5FB; }
+  .header [class^="menu-item-"]:hover {
     font-weight: bold; }
   .header .container {
     display: flex;
@@ -12631,7 +12633,7 @@ ul.social {
     color: #222222; }
 
 .title-2 {
-  font-family: "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
+  font-family: "Titillium Web", "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
   font-weight: light;
   color: #333333;
   font-size: 2.4rem; }
@@ -12642,7 +12644,7 @@ ul.social {
     display: block; }
 
 .title-3 {
-  font-family: "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
+  font-family: "Titillium Web", "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system;
   font-weight: 600;
   color: #2b2b39;
   font-size: 1.9rem;
@@ -12670,7 +12672,7 @@ ul.social {
 
 .content p {
   color: #4e4e4e;
-  font-family: "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system; }
+  font-family: "Titillium Web", "Open Sans", "Helvetica Neue", sans-serif, Arial, -apple-system; }
 
 .content h1, .content .h1 {
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
@@ -12867,7 +12869,7 @@ ul.social {
     margin: auto 0;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     font-weight: bold !important;
-    font-family: sans-serif, Arial, Helvetica; }
+    font-family: 'Titillium Web', sans-serif, Arial, Helvetica; }
     .hero-image .hero-text h1, .hero-image .hero-text .h1 {
       font-size: 3rem;
       font-weight: bold !important; }
