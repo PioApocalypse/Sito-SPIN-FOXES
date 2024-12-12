@@ -24,10 +24,10 @@
     font-family: sans-serif, Arial, Helvetica;
     h1 {
       font-size: 3rem;
+      font-weight: bold !important;
       @include media-breakpoint-up(md) {
         font-size: 4rem;
         width: 80%;
-      font-weight: bold !important;
       }
     }
     h2 {

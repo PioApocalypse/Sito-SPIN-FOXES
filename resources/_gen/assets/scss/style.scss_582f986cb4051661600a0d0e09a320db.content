@@ -12869,12 +12869,12 @@ ul.social {
     font-weight: bold !important;
     font-family: sans-serif, Arial, Helvetica; }
     .hero-image .hero-text h1, .hero-image .hero-text .h1 {
-      font-size: 3rem; }
+      font-size: 3rem;
+      font-weight: bold !important; }
       @media (min-width: 768px) {
         .hero-image .hero-text h1, .hero-image .hero-text .h1 {
           font-size: 4rem;
-          width: 80%;
-          font-weight: bold !important; } }
+          width: 80%; } }
     .hero-image .hero-text h2, .hero-image .hero-text .h2 {
       font-size: 2.2rem; }
       @media (min-width: 768px) {
