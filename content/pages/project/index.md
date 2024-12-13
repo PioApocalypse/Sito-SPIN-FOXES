@@ -1,5 +1,5 @@
 ---
-title: 'Abstract'
+title: 'Project'
 date: 2024-12-12T09:29:16+10:00
 layout: 'about'
 heroHeading: 'FOXES'
