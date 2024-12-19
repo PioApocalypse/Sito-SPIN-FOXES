@@ -1,17 +1,14 @@
 ---
-title: 'Mergers'
-date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
-featured: true
+title: 'Self-Formed, Conducting LaAlO3/SrTiO3 Micro-Membranes'
+doi: '10.1002/adfm.201909964'
+date: 2024-12-13T10:40:00
+year: 2020
+#icon: 'pubs/icons/...' #per usare icone vicino alle pubblicazioni, facoltativo, sconsigliato
 draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
-heroBackground: 'services/service2.jpg'
+featured: true
+weight: 3
+authors: 'A.Sambri, M.Scuderi, A. Guarino, E. Di Gennaro, R. Erlandsen, R. T. Dahm, A. Bjørlig, D. V. Christensen, R. Di Capua, U. Scotti di Uccio, S. Mirabella, T. S. Jespersen, G. Nicotra, C. Spinella, F. Miletto Granozio'
 ---
-
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
 
 ## Ne verba patulosque numen vix libet
 

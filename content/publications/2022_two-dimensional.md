@@ -1,12 +1,11 @@
 ---
-title: 'Business Sales'
-date: 2018-11-28T15:15:26+10:00
-icon: 'services/service-icon-3.png'
+title: 'A two-dimensional superconducting electron gas in freestanding LaAlO3/SrTiO3 micro-membranes'
+doi: '10.1021/acs.nanolett.2c00992'
+date: 2024-12-13T10:40:00
+year: 2022
 featured: true
 draft: false
-heroHeading: 'Business Sales'
-heroSubHeading: 'We can help value your business and prepare it for sale.'
-heroBackground: 'services/service1.jpg'
+weight: 1
 ---
 
 Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia

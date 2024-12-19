@@ -62,7 +62,7 @@ ignoreLogs = ['warning-goldmark-raw-html'] # Sopprime warn 'Raw HTML omitted whi
 
 [[menu.main]]
 	name = 'Publications'
-	url = '/services/'
+	url = '/publications/'
     weight = 6
 
 [[menu.main]]

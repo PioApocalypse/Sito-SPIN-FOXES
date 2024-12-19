@@ -1,12 +1,11 @@
 ---
-title: 'Business Advisory'
-date: 2018-11-28T15:14:39+10:00
-icon: 'services/service-icon-2.png'
+title: 'Size-Controlled Spalling of LaAlO3/SrTiO3 Micro-membranes'
+doi: '10.1021/acsami.0c21612'
+date: 2024-12-13T10:40:00
+year: 2021
 featured: true
 draft: false
-heroHeading: 'Business Advisory'
-heroSubHeading: 'Expert advice and guidance when you need it most.'
-heroBackground: 'services/service2.jpg'
+weight: 2
 ---
 
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares

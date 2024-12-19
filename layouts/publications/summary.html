@@ -6,8 +6,9 @@
   {{ end }}
   <div class="service-content">
     <h2 class="service-title">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <a href="{{ .Permalink }}">({{ .Params.year }}) {{ .Title }}</a>
     </h2>
-    {{ .Content | truncate 120 "..." }}
+    {{ .Params.authors }}
+    <!-- {{ .Content | truncate 200 "..." }} -->
   </div>
 </div>
