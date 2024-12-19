@@ -15,6 +15,16 @@
         <div class="content mb-1"><b>{{.Params.authors}}</b></div>
         <div class="content mb-3">Year of Publication: {{.Params.year}}</div>
         <div class="content mb-3" style="text-align: justify;">{{.Content}}</div>
+
+        <!-- Immagine rappresentativa della pubblicazione -->
+        {{ if .Params.pubImage }}
+          <img class="img-fluid" src="{{ .Params.pubImage }}" alt="pub_image">
+        {{ end }}
+
+        <!-- Copyright per quei pezzi di merda dei publisher - possano un giorno accorgersi che i loro soldi non li salveranno dall'inferno -->
+        {{ if .Params.copyright }}
+          <div class="content mb-3" style="font-size: larger;">Copyright © {{ .Params.year }} {{ .Params.copyright }}</div>
+        {{ end }}
       </div>
     </div>
   </div>

@@ -7,7 +7,8 @@ featured: true
 draft: false
 weight: 20
 authors: 'R. T. Dahm, R. Erlandsen, F. Trier, A. Sambri, E. Di Gennaro, A. Guarino, L. Stampfer, D. V Christensen, F. Miletto Granozio, T. S. Jespersen'
-copyright: ''
+copyright: 'American Chemical Society'
+pubImage: 'https://pubs.acs.org/cms/10.1021/acsami.0c21612/asset/images/medium/am0c21612_0005.gif'
 ---
 
 ## Abstract

@@ -9,6 +9,7 @@ featured: true
 weight: 30
 authors: 'A.Sambri, M.Scuderi, A. Guarino, E. Di Gennaro, R. Erlandsen, R. T. Dahm, A. Bjørlig, D. V. Christensen, R. Di Capua, U. Scotti di Uccio, S. Mirabella, T. S. Jespersen, G. Nicotra, C. Spinella, F. Miletto Granozio'
 copyright: ''
+pubImage: ''
 ---
 
 ## Abstract

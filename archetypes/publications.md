@@ -7,6 +7,7 @@ draft: true
 weight: 1
 authors: ''
 copyright: ''
+pubImage: ''
 ---
 
 
