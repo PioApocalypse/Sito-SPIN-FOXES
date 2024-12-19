@@ -27,26 +27,27 @@
         
         <div class="col-12 d-flex flex-column flex-md-row mb-4" style="border: 2px solid grey; border-radius: 0.6rem; margin-left: 0.5rem;">
             <!-- Propic va in questo div. Per fare resize giocare sulle frazioni di 12 (es. 4-8, 3-9 etc.) -->
-            <div class="col-12 col-md-4">
+            <div class="col-12 col-md-3">
                 <img src="/propic/{{ $person.pic }}" alt="propic" class="img-fluid rounded-circle" style="margin: 1rem; padding: 1rem;">
             </div>
             <!-- Nome e bio -->
-            <div class="col-12 col-md-8 mb-3 mb-md-0" style="padding: 1.5rem;">
+            <div class="col-12 col-md-9 mb-3 mb-md-0" style="padding: 1.5rem;">
                 <h2>{{ $person.name }}</h2>
-                <p>{{ $person.bio | safeHTML }}</p>
+                <p style="text-align: justify;">{{ $person.bio | safeHTML }}</p>
             </div>
         </div>
     {{ end }}
 </div>
 
 {{ end }}
+
 {{ define "footer_js" }}
 {{ $library := resources.Get "js/libs/library.js" }}
 {{ $services := resources.Get "js/pages/services.js" }}
 {{ $servicesJS := slice $library $services |resources.Concat "js/services.js" }}
 {{ if hugo.IsServer }}
-  <script type="text/javascript" src="{{ $servicesJS.RelPermalink }}"></script>
-  {{ else }}
-  <script type="text/javascript" src="{{ ($servicesJS | minify | fingerprint).RelPermalink }}"></script>
-  {{ end }}
+<script type="text/javascript" src="{{ $servicesJS.RelPermalink }}"></script>
+{{ else }}
+<script type="text/javascript" src="{{ ($servicesJS | minify | fingerprint).RelPermalink }}"></script>
+{{ end }}
 {{ end }}

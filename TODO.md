@@ -1,10 +1,10 @@
 - [x] Capire cosa cazzo è successo a history
-- [ ] Sostituire immagini header di tutte le pagine (team, seminars, ws etc.)
+- [ ] Sostituire immagini header di tutte le pagine (seminars, ws, publications)
 - [ ] Riparare il footer della pagina 'Team'
 
 ## Associazioni
 - [x] About = Abstract
-- [ ] Services = Pubblications
+- [ ] Services = Publications
 - [ ] Work = Seminars & Workshops
-- [ ] History = Team
+- [x] History = Team
 - [x] Contact = HQ
