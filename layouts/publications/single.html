@@ -12,8 +12,9 @@
   <div class="row justify-content-start">
     <div class="col-12 col-md-8">
       <div class="service service-single">
-        <div class="content">{{.Params.authors}}</div>
-        <div class="content">{{.Content}}</div>
+        <div class="content mb-1"><b>{{.Params.authors}}</b></div>
+        <div class="content mb-3">Year of Publication: {{.Params.year}}</div>
+        <div class="content mb-3" style="text-align: justify;">{{.Content}}</div>
       </div>
     </div>
   </div>

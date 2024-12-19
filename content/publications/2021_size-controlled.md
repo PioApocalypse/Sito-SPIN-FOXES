@@ -5,59 +5,10 @@ date: 2024-12-13T10:40:00
 year: 2021
 featured: true
 draft: false
-weight: 2
+weight: 20
+authors: 'R. T. Dahm, R. Erlandsen, F. Trier, A. Sambri, E. Di Gennaro, A. Guarino, L. Stampfer, D. V Christensen, F. Miletto Granozio, T. S. Jespersen'
+copyright: ''
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
-
-## Inter pectore totidem
-
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
-
-## Novis hunc qua erat caecisque
-
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
-
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
-
-## Naiades latuere rubenti tendere os Phrygum eminus
-
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
-
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+## Abstract
+The ability to form freestanding oxide membranes of nanoscale thickness is of great interest for enabling material functionality and for integrating oxides in flexible electronic and photonic technologies. Recently, a route has been demonstrated for forming conducting heterostructure membranes of LaAlO<sub>3</sub> and SrTiO<sub>3</sub>, the canonical system for oxide electronics. In this route, the epitaxial growth of LaAlO<sub>3</sub> on SrTiO<sub>3</sub> resulted in a strained state that relaxed by producing freestanding membranes with random sizes and locations. Here, we extend the method to enable self-formed LaAlO<sub>3</sub>/SrTiO<sub>3</sub> micromembranes with control over membrane position, their lateral sizes from 2 to 20 μm, and with controlled transfer to other substrates of choice. This method opens up the possibility to study and use the two-dimensional electron gas in LaAlO<sub>3</sub>/SrTiO<sub>3</sub> membranes for advanced device concepts.

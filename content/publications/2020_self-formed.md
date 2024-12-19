@@ -6,48 +6,10 @@ year: 2020
 #icon: 'pubs/icons/...' #per usare icone vicino alle pubblicazioni, facoltativo, sconsigliato
 draft: false
 featured: true
-weight: 3
+weight: 30
 authors: 'A.Sambri, M.Scuderi, A. Guarino, E. Di Gennaro, R. Erlandsen, R. T. Dahm, A. Bjørlig, D. V. Christensen, R. Di Capua, U. Scotti di Uccio, S. Mirabella, T. S. Jespersen, G. Nicotra, C. Spinella, F. Miletto Granozio'
+copyright: ''
 ---
 
-## Ne verba patulosque numen vix libet
-
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
-
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## Abstract
+The discovery of 2D conductivity at the LaAlO<sub>3</sub>/SrTiO<sub>3</sub> interface has been linking, for over a decade, two of the major current research fields in materials science: correlated transition-metal-oxide systems and low-dimensional systems. Notably, despite the 2D nature of the interfacial electron gas, the samples are 3D objects with thickness in the mm range. This prevented researchers so far from adopting strategies that are only viable for fully 2D materials, or from effectively exploiting degrees of freedom related to strain, strain gradient and curvature. Here a method based on pure strain engineering for obtaining freestanding LaAlO<sub>3</sub>/SrTiO<sub>3</sub> membranes with micrometer lateral dimensions is demonstrated. Detailed transmission electron microscopy investigations show that the membranes are fully epitaxial and that their curvature results in a huge strain gradient, each layer showing a mixed compressive/tensile strain state. Electronic devices are fabricated by realizing ad hoc circuits for individual micro-membranes transferred on silicon chips. The samples exhibit metallic conductivity and electrostatic field effect like 2D-electron systems in bulk heterostructures. The results open a new path for adding oxide functionalities into semiconductor electronics, potentially allowing for ultra-low voltage gating of a superconducting transistors, micromechanical control of the 2D electron gas mediated by ferroelectricity and flexoelectricity, and on-chip straintronics.
