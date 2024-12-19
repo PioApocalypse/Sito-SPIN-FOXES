@@ -1,0 +1,35 @@
+- name: 'Alessia Sambri'
+  pic: 'sambri.jpg'
+  bio: |
+    AS is Staff Researcher at the Institute for Superconductors, oxides and other innovative materials and devices (SPIN) of the National Council of Research (CNR), Unity of Naples.<br>
+    Her main expertise is on RHEED-assisted PLD fabrication of epitaxial, nanostructured or amorphous thin films and/or multilayers, mainly of perovskite oxides, and their structural and electronics characterization.<br>
+    She has a scientific focus also on the PLD process itself, investigating the correlations among the PLD process parameters, plasma plume composition and dynamics and films properties. She developed for the first time in CNR-SPIN labs of Naples an innovative method based on pure strain engineering allowing to obtain LaAlO3/SrTiO3 free-standing superconducting epitaxial micro-heterostructures. This method is under evaluation for an European Patent, as "Heterostructure membranes and process for fabricating heterostructure membranes" A. Sambri and F.Miletto Granozio, application no. EP21190418.0 priority no. 102020000020317 (2020).<br>
+    She also works on low band-gap ferroelectric photovoltaics materials, as Local Unit Responsible for the project CANVAS - Concepts, materials and technologies for the integration of photovoltaics in buildings in a scenario of distributed generation.
+
+- name: 'Emiliano Di Gennaro'
+  pic: 'digennaro.jpg'
+  bio: |
+    EDG is an associate professor at the Physics Department of the University of Napoli ”Federico II”, Italy. The scientific activity of EDG is devoted to solid-state physics with an experimental character. His expertise concerns the fabrication and characterization of metal transition oxide thin films, with specific attention to structural, electronic, magnetic, and optical properties of crystalline and amorphous materials. Recently, EDG started a new activity on the design, fabrication, and characterization of multilayer thin film heterostructures for solar thermal panel application. In the last two years has been part of the Physics Doctoral Committee at Federico II University and of a National  Doctoral Committee devoted to Sustainable Materials, Processes and Systems for Energy Transition.
+
+- name: 'Anita Guarino'
+  pic: 'guarino.jpg'
+  bio: |
+    My research experience is in the field of material synthesis and thin film deposition and characterization of new systems and their related applications.<br>
+    In particular, my scientific activity is mainly dedicated to the realization of transition metal oxides (superconductors, magnetic and insulators) by means of different thin film deposition techniques such as sputtering and pulsed laser deposition. More recently, my research is dedicated to the growth of single crystals of topological insulators and oxides with the technique of floating zones and physical vapor deposition.<br>
+    Expert in the field of structural, morphological, compositional and solid-state sample transport analysis having acquired considerable experience in the field of scanning electron microscopy and X-ray diffractometry as well as in the use of numerous beamlines present in large facilities such as synchrotrons. 
+
+- name: 'Antonio Vecchione'
+  pic: 'vecchione.png'
+  bio: |
+    N/A
+
+- name: 'Daniela Stornaiuolo'
+  pic: 'stornaiuolo.jpg'
+  bio: |
+    DS obtained a PhD in Innovative Technologies for Materials, Sensors and Imaging at the Department of Physics of the University of Naples “Federico II” in 2007. Her thesis work focused on the study of mesoscopic effects in HTS Josephson junctions and was carried out in the group of prof. A.Barone and F.Tafuri, in collaboration with F.Lombardi at Chalmers University of Technology (Sweden). From 2011 to 2013 she was post doc researcher in the the group of J.-M- Triscone at the University of Geneva (Switzerland). In 2013 she was granted a national project for the realization of hybrid superconductor/semiconductor Josephson junctions and become tenure track researcher at the University of Naples. From 2021 she is associated professor in the same university.<br>
+    Her current work focuses on the study of micro and nanoscale devices based on two dimensional electron gas at oxide interfaces.
+
+- name: 'Andrea Rubano'
+  pic: 'rubano.jpg'
+  bio: |
+    AR is the responsible in the FOXES project for the Nonlinear Optics characterization of 2DEG membranes. His expertise is on several linear and nonlinear optical techniques such as Second Harmonic Generation (SHG), THz time-domain spectroscopy, THz Hyper-Raman spectroscopy, Pump&Probe optical experiments, photoluminescence and linear spectroscopy. His scientific activity is focused on the wide class of strongly correlated materials, with particular regard on oxides thin films and heterostructures.
