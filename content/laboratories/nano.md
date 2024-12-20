@@ -1,7 +1,7 @@
 ---
 title: 'Laboratory of Nanomagnetism'
 date: 2024-12-13T14:00:00
-draft: false
+draft: true
 weight: 3
 heroHeading: ''
 heroSubHeading: 'Laboratory of Nanomagnetism.'
