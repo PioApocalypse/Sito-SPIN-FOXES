@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
+title: 'Our Team'
 weight: 2
 background: ''
-button: 'About Us'
-buttonLink: 'about'
+button: 'Team'
+buttonLink: 'team'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Meet the minds behind our work.

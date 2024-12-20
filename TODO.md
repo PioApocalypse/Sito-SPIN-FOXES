@@ -4,8 +4,10 @@
 - [ ] Separare previous publications dalle nuove eventuali
 
 ## Associazioni
+- [x] Homepage
 - [x] About = Abstract
-- [ ] Services = Publications
+- [x] Services = Publications
 - [ ] Work = Seminars & Workshops
+- [ ] ??? = Laboratories
 - [x] History = Team
 - [x] Contact = HQ
