@@ -1,5 +1,5 @@
 ---
-title: 'Abstract'
+title: 'The Project'
 date: 2024-12-12T09:29:16+10:00
 weight: 1
 #background: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
@@ -19,10 +19,10 @@ FOXES project aims to investigate in detail this process in order to:
 \- Disseminate the results and gather together a community of national and international researchers working on freestanding membranes.
 
 ### Additional info
-**Principal Investigator**: Alessia Sambri (CNR-SPIN) \
+**Principal Investigator**: Alessia Sambri (CNR-SPIN Napoli) \
 **Local Unit**: Emiliano di Gennaro \
-**Team**: Anita Guarino (CNR-SPIN) \
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Antonio Vecchione (CNR-SPIN) \
+**Team**: Anita Guarino (CNR-SPIN Salerno) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Antonio Vecchione (CNR-SPIN Salerno) \
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Daniela Stornaiuolo (Physics Department – UNINA) \
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Andrea Rubano (Physics Department – UNINA)
 
