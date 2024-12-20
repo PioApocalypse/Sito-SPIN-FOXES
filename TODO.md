@@ -4,6 +4,7 @@
 - [ ] Separare previous publications dalle nuove eventuali
 - [x] Mettere su i laboratori
 - [x] Mettere un placeholder su Seminars & Workshops
+- [ ] Riempire laboratories
 
 ## Associazioni
 - [x] Homepage

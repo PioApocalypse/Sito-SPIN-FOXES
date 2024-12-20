@@ -3,6 +3,6 @@ title: 'Headquarters'
 date: 2024-12-12T17:01:34+07:00
 ---
 
-As stated in the link:/about[abstract], this project is the result of a joint work between link:https://www.spin.cnr.it/[CNR-SPIN Naples^] +
-and the University of Naples «Federico II»'s link:https://www.fisica.unina.it/en_GB/home[Department of Physics "Ettore Pancini"^]. +
+As stated in the link:/about[abstract], this project is the result of a joint work between link:https://www.spin.cnr.it/[CNR-SPIN^] Naples +
+and Salerno and the University of Naples «Federico II»'s link:https://www.fisica.unina.it/en_GB/home[Department of Physics "Ettore Pancini"^]. +
 SPIN Naples and the department share the same physical address.
