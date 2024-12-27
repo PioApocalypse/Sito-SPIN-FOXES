@@ -1,4 +1,5 @@
 - name: 'Alessia Sambri'
+  mail: ''
   pic: 'sambri.jpg'
   bio: |
     AS is Staff Researcher at the Institute for Superconductors, oxides and other innovative materials and devices (SPIN) of the National Council of Research (CNR), Unity of Naples.<br>
@@ -7,11 +8,13 @@
     She also works on low band-gap ferroelectric photovoltaics materials, as Local Unit Responsible for the project CANVAS - Concepts, materials and technologies for the integration of photovoltaics in buildings in a scenario of distributed generation.
 
 - name: 'Emiliano Di Gennaro'
+  mail: ''
   pic: 'digennaro.jpg'
   bio: |
     EDG is an associate professor at the Physics Department of the University of Napoli ”Federico II”, Italy. The scientific activity of EDG is devoted to solid-state physics with an experimental character. His expertise concerns the fabrication and characterization of metal transition oxide thin films, with specific attention to structural, electronic, magnetic, and optical properties of crystalline and amorphous materials. Recently, EDG started a new activity on the design, fabrication, and characterization of multilayer thin film heterostructures for solar thermal panel application. In the last two years has been part of the Physics Doctoral Committee at Federico II University and of a National  Doctoral Committee devoted to Sustainable Materials, Processes and Systems for Energy Transition.
 
 - name: 'Anita Guarino'
+  mail: ''
   pic: 'guarino.jpg'
   bio: |
     My research experience is in the field of material synthesis and thin film deposition and characterization of new systems and their related applications.<br>
@@ -19,17 +22,20 @@
     Expert in the field of structural, morphological, compositional and solid-state sample transport analysis having acquired considerable experience in the field of scanning electron microscopy and X-ray diffractometry as well as in the use of numerous beamlines present in large facilities such as synchrotrons. 
 
 - name: 'Antonio Vecchione'
+  mail: ''
   pic: 'vecchione.png'
   bio: |
     AV is researcher of the CNR – SPIN Institute having been from 2015 to 2019 the Deputy Director of the Salerno unit. His research activity is mainly focused on superconducting and magnetic perovskite oxides as well as topological insulators. He developed experience on single crystal growth and characterization by scanning electron microscopy and X-ray diffraction. He has chaired and organized international conferences (he has been co-chair of the International Conference of Crystal Growth and Epitaxy held in Naples during August 2023) and workshops. He is author of more than 200 publications in international scientific journals, editor of books, coordinator of proposals at large scale facilities and referee of several scientific journals. He is the leader of the MUSA (Multifunctional Material Synthesis and Analysis) group within the CNR-SPIN Institute.
 
 - name: 'Daniela Stornaiuolo'
+  mail: ''
   pic: 'stornaiuolo.jpg'
   bio: |
     DS obtained a PhD in Innovative Technologies for Materials, Sensors and Imaging at the Department of Physics of the University of Naples “Federico II” in 2007. Her thesis work focused on the study of mesoscopic effects in HTS Josephson junctions and was carried out in the group of prof. A.Barone and F.Tafuri, in collaboration with F.Lombardi at Chalmers University of Technology (Sweden). From 2011 to 2013 she was post doc researcher in the the group of J.-M- Triscone at the University of Geneva (Switzerland). In 2013 she was granted a national project for the realization of hybrid superconductor/semiconductor Josephson junctions and become tenure track researcher at the University of Naples. From 2021 she is associated professor in the same university.<br>
     Her current work focuses on the study of micro and nanoscale devices based on two dimensional electron gas at oxide interfaces.
 
 - name: 'Andrea Rubano'
+  mail: ''
   pic: 'rubano.jpg'
   bio: |
     AR is the responsible in the FOXES project for the Nonlinear Optics characterization of 2DEG LAO/STO  membranes. His expertise is on several linear and nonlinear optical techniques such as Second Harmonic Generation (SHG), THz time-domain spectroscopy, THz Hyper-Raman spectroscopy, Pump&Probe optical experiments, photoluminescence and linear spectroscopy. His scientific activity is focused on the wide class of strongly correlated materials, with particular regard on oxides thin films and heterostructures.
