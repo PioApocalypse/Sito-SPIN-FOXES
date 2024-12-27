@@ -15,6 +15,7 @@
       <div class="col-12 {{ if eq .Params.align "right" }}offset-md-6{{ end }}">
         <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
         {{ .Content }}
+        <br>
         {{ if .Params.button }}
           <a class="button" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
         {{ end }}

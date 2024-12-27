@@ -2,12 +2,13 @@
 title: 'The Project'
 date: 2024-12-12T09:29:16+10:00
 weight: 1
-#background: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
+button: 'Our Results'
+buttonLink: '/publications'
+#background: '/pubs/LAO_STO_tick_tips_03.png'
 #align: center
 ---
 
-**FOXES** project aims at assessing a reliable technology for
-the creation and control of freestanding oxide heterostructures of different types with an innovative method, recently developed at CNR-SPIN labs of Naples Unit, relying on strain engineering during pulsed laser deposition (PLD) of LaAlO3 (LAO) on SrTiO3 (STO) substrate. By inducing an abrupt strain-relaxation process, that results in vertical cracks formation and substrate spalling, this method gives rise to the formation of regularly shaped epitaxial superconducting freestanding LAO/STO micro-membranes (mMs). Moreover, the epitaxy of in-plane-lattice mismatched oxides results in intrinsically curved membranes, hosting a strain-gradient several order of magnitude larger than what achievable in mechanical bended mm samples.
+**FOXES** project aims at assessing a reliable technology for the creation and control of freestanding oxide heterostructures of different types with an innovative method, recently developed at CNR-SPIN labs of Naples Unit, relying on strain engineering during pulsed laser deposition (PLD) of LaAlO3 (LAO) on SrTiO3 (STO) substrate. By inducing an abrupt strain-relaxation process, that results in vertical cracks formation and substrate spalling, this method gives rise to the formation of regularly shaped epitaxial superconducting freestanding LAO/STO micro-membranes (mMs). Moreover, the epitaxy of in-plane-lattice mismatched oxides results in intrinsically curved membranes, hosting a strain-gradient several order of magnitude larger than what achievable in mechanical bended mm samples.
 
 FOXES project aims to investigate in detail this process in order to:
 

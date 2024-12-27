@@ -2,7 +2,7 @@
 
 - [x] Capire cosa è successo a /history
 - [x] Sostituire immagini header di tutte le pagine (seminars, ws, publications)
-- [-] <strike>Riparare il footer della pagina 'Team'</strike>
+- [x] <strike>Riparare il footer della pagina 'Team'</strike>
 - [x] Mettere su i laboratori
 - [x] Mettere un placeholder su Seminars & Workshops
 - [ ] Completare i laboratories quando i colleghi inviano le altre info
