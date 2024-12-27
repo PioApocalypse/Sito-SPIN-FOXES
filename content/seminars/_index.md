@@ -6,6 +6,9 @@ heroSubHeading: ''
 heroBackground: ''
 ---
 
-## This section will be updated in due time.
+# Site under construction.
+<br>
+
+### This section will be updated in due time.
 
 <!-- Copiare i file in /content/laboratories/*.md per popolare questa sezione. Occorrono foto e dettagli. -->

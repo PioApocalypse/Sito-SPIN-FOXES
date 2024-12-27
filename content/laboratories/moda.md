@@ -7,7 +7,7 @@ heroHeading: 'MODA'
 heroSubHeading: 'Modular Facility for Oxide Deposition and Analysis.'
 heroBackground: '/labs/moda.png'
 thumbnail: '/labs/moda.png'
-images: ['', '']
+images: ['/labs/moda.png']
 ---
 
 The **CNR-SPIN Research Unit of Naples and Salerno** together with the **Physics Department of the University of Naples** have a considerable set of scientific equipment covering the following areas: advanced thin films deposition, micro- and nano-patterning, structural/morphological and electronic transport characterization down to ultra-low temperatures in the presence of high magnetic fields or external radiation, advanced optical characterization and spectroscopy in the wavelength range 200 – 1500 nm also time resolved, low noise electronic characterization of devices.
