@@ -6,7 +6,7 @@
    version="1.1"
    id="svg19"
    sodipodi:docname="logo.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,15 +24,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="2.1082861"
-     inkscape:cx="50.514966"
-     inkscape:cy="-103.87584"
-     inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:zoom="11.926267"
+     inkscape:cx="57.687791"
+     inkscape:cy="-2.7250773"
+     inkscape:window-width="2560"
+     inkscape:window-height="1359"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg19" />
+     inkscape:current-layer="svg19"
+     inkscape:pageshadow="0" />
   <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
   <title
      id="title9">logo</title>
@@ -55,10 +56,10 @@
      x="22.289068"
      y="15.59531"
      id="text259"
-     transform="translate(-14.22908,10.56469)"><tspan
+     transform="translate(-14.228989,10.56469)"><tspan
        x="22.289068"
        y="15.59531"
-       id="tspan4957"><tspan
-         style="font-weight:bold;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';fill:#ffffff;stroke:#000000"
-         id="tspan4955">FOXES</tspan></tspan></text>
+       id="tspan13086"><tspan
+         style="font-weight:bold;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';fill:#ffffff;stroke:#000000"
+         id="tspan13084">FOXES</tspan></tspan></text>
 </svg>
