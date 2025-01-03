@@ -21,7 +21,7 @@ ignoreLogs = ['warning-goldmark-raw-html'] # Sopprime warn 'Raw HTML omitted whi
     desktop = 'images/logo.png'
     desktop_height = '29px'
     desktop_width = '217px'
-    alt = 'Hugo Hero'
+    alt = 'FOXES Homepage'
 
   [params.homepage_meta_tags]
     meta_description = 'Freestanding OXides Epitaxial Strained micro-heterostructures - PRIN PNRR 2022 2022TCT72 - Funded by MUR.'
