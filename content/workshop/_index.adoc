@@ -1,15 +1,13 @@
 ---
-title: 'Seminars'
-date: 2024-12-12T11:52:18+07:00
-heroHeading: 'Seminars'
+title: 'Final Workshop'
+date: 2025-05-21
+heroHeading: 'Final Workshop'
 heroSubHeading: ''
-heroBackground: ''
+#heroBackground: ''
 ---
 
-== FINAL WORKSHOP
-{empty} +
 
-=== The Workshop “Freestanding Oxide Membranes: science and applications”, will be held on October 20-21, 2025, in Naples, Italy.
+== The Workshop “Freestanding Oxide Membranes: science and applications”, will be held on October 20-21, 2025, in Naples, Italy.
 {empty} +
 
 Freestanding oxide membranes represent a new frontier in functional materials research. Their remarkable flexibility and structural adaptability—far exceeding that of bulk materials and conventional epitaxial films—open new pathways for exploring phase diagrams, offer unprecedented opportunities for the exploration of complex phase diagrams and the investigation of otherwise inaccessible states of matter. The ability to stack single or multiple freestanding oxide membranes on diverse substrates facilitates relatively straightforward integration with CMOS platforms, thereby enabling promising advancements in oxide-based electronic devices and emerging applications.
@@ -17,22 +15,22 @@ Freestanding oxide membranes represent a new frontier in functional materials re
 This Workshop aims at bringing together the Research Community working on Freestanding Oxides Membranes, at discussing the latest developments in this field, with a particular focus on applications in electronics, sensing  and other emerging technologies.
 
 
-==== Confirmed Invited Speakers (updating):
+=== Confirmed Invited Speakers (updating):
 
 * Thomas Sand Jespersen (DTU) "Quantum Transport and Devices based on LAO/STO freestanding micro-membranes"
 
-==== Organizing Committee
+=== Organizing Committee
 
 Dr. *Alessia Sambri* CNR-SPIN (Italy) +
 Prof. *Emiliano Di Gennaro* University of Naples Federico II (Italy) +
 Dr. *Fabio Miletto Granozio* CNR-SPIN (Italy)
 
-==== Important Dates
+=== Important Dates
 
 *Abstract submission*: 31 May- 15 July +
 *Abstract acceptance*: 5 August
 
-==== Venue
+=== Venue
 
 Centro Congressi Partenope, Sala A Via Partenope, 36 - Napoli (link:https://www.centrocongressi.unina.it/via-partenope/[more info^])
 
