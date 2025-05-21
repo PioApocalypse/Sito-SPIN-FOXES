@@ -36,6 +36,6 @@ The activity of the [Nanomagnetism for Biology and Spintronics group](http://nab
 * aixACCT **thin films analyzer** TFA2000 ([more info](https://www.aixacct.com/en/testsysteme/tf-analyzer-family/tf-analyzer-2000-e/)).
 
 ### General info
-**CONTACT from the project**: Dott. [Christian Rinaldi](mailto:christian.rinaldi@polimi.it) \
-**LOCATION**: Politecnico di Milano \
-**CONDITION**: Operative
+* **CONTACT from the project**: Dott. [Christian Rinaldi](mailto:christian.rinaldi@polimi.it) \
+* **LOCATION**: Politecnico di Milano \
+* **CONDITION**: Operative

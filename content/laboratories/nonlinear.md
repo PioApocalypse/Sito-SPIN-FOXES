@@ -24,7 +24,7 @@ For instance, by exploiting second-order processes (second harmonic generation �
 * Linear spectrometer and optical characterization techniques
 
 ### General info
-**CONTACT**: Dott. [Andrea Rubano](mailto:andrea.rubano@unina.it) \
-**RESPONSIBLE**: Dr. Domenco Paparo (CNR-ISASI) \
-**LOCATION**: Università Federico II di Napoli \
-**CONDITION**: Operative
+* **CONTACT**: Dott. [Andrea Rubano](mailto:andrea.rubano@unina.it) \
+* **RESPONSIBLE**: Dr. Domenco Paparo (CNR-ISASI) \
+* **LOCATION**: Università Federico II di Napoli \
+* **CONDITION**: Operative

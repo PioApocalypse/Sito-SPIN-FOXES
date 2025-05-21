@@ -15,6 +15,6 @@ The **CNR-SPIN Research Unit of Naples and Salerno** together with the **Physics
 The core of the activity of the project dedicated to membranes fabrication is based on **MODA** (*Modular Facility for Oxide Deposition and Analysis*), a cluster system composed by a UHV Pulsed Laser Deposition system equipped with RHEED, and a UHV Multi-chambers Sputtering system, in-situ connected with X-Ray and Ultra-violet Photoemission Spectroscopy, Spot-Profile Analysis Low Energy Electron Diffraction (SPA-LEED) system and Scanning Probe Microscopy/Spectroscopy.
 
 ### General info
-**CONTACT from the project**: Dr. [Alessia Sambri](mailto:alessia.sambri@spin.cnr.it) \
-**LOCATION**: Naples \
-**CONDITION**: Operative
+* **CONTACT from the project**: Dr. [Alessia Sambri](mailto:alessia.sambri@spin.cnr.it)
+* **LOCATION**: Naples
+* **CONDITION**: Operative
