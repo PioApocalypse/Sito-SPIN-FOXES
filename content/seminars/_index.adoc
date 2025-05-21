@@ -16,11 +16,24 @@ Freestanding oxide membranes represent a new frontier in functional materials re
 
 This Workshop aims at bringing together the Research Community working on Freestanding Oxides Membranes, at discussing the latest developments in this field, with a particular focus on applications in electronics, sensing  and other emerging technologies.
 
-Confirmed Invited Speakers (updating):
+
+==== Confirmed Invited Speakers (updating):
 
 * Thomas Sand Jespersen (DTU) "Quantum Transport and Devices based on LAO/STO freestanding micro-membranes"
 
-{empty} +
-Venue: Centro Congressi Partenope, Sala A Via Partenope, 36 - Napoli (link:https://www.centrocongressi.unina.it/via-partenope/[more info^])
+==== Organizing Committee
+
+Dr. *Alessia Sambri* CNR-SPIN (Italy) +
+Prof. *Emiliano Di Gennaro* University of Naples Federico II (Italy) +
+Dr. *Fabio Miletto Granozio* CNR-SPIN (Italy)
+
+==== Important Dates
+
+*Abstract submission*: 31 May- 15 July +
+*Abstract acceptance*: 5 August
+
+==== Venue
+
+Centro Congressi Partenope, Sala A Via Partenope, 36 - Napoli (link:https://www.centrocongressi.unina.it/via-partenope/[more info^])
 
 // Copiare i file in /content/laboratories/*.md per popolare questa sezione. Occorrono foto e dettagli. 
