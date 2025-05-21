@@ -17,7 +17,8 @@ This Workshop aims at bringing together the Research Community working on Freest
 
 === Confirmed Invited Speakers (updating):
 
-* Thomas Sand Jespersen (DTU) "Quantum Transport and Devices based on LAO/STO freestanding micro-membranes"
+* *Thomas Sand Jespersen* (DTU) "Quantum Transport and Devices based on LAO/STO freestanding micro-membranes"
+* *Jalan Bharat* (University of Minnesota, USA): "Oxide Bicrystals: A Route to Interfacial Quasicrystals"
 
 === Organizing Committee
 
