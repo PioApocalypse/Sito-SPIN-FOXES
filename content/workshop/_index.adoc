@@ -17,7 +17,7 @@ This Workshop aims at bringing together the Research Community working on Freest
 
 === Confirmed Invited Speakers (updating):
 
-* *Thomas Sand Jespersen* (DTU) "Quantum Transport and Devices based on LAO/STO freestanding micro-membranes"
+* *Thomas Sand Jespersen* (Technical University of Denmark) "Quantum Transport and Devices based on LAO/STO freestanding micro-membranes"
 * *Jalan Bharat* (University of Minnesota, USA): "Oxide Bicrystals: A Route to Interfacial Quasicrystals"
 
 === Organizing Committee
@@ -34,5 +34,8 @@ Dr. *Fabio Miletto Granozio* CNR-SPIN (Italy)
 === Venue
 
 Centro Congressi Partenope, Sala A Via Partenope, 36 - Napoli (link:https://www.centrocongressi.unina.it/via-partenope/[more info^])
+
+=== Contacts
+*Organizing Secretariat*: link:mailto:info@jeangillder.it[info@jeangillder.it^]
 
 // Copiare i file in /content/laboratories/*.md per popolare questa sezione. Occorrono foto e dettagli. 
