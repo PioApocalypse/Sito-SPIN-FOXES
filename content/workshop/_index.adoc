@@ -6,7 +6,7 @@ heroSubHeading: ''
 #heroBackground: ''
 ---
 
-
+[#the-workshop]
 == The Workshop “Freestanding Oxide Membranes: science and applications”, will be held on October 20-21, 2025, in Naples, Italy.
 {empty} +
 
@@ -14,28 +14,48 @@ Freestanding oxide membranes represent a new frontier in functional materials re
 
 This Workshop aims at bringing together the Research Community working on Freestanding Oxides Membranes, at discussing the latest developments in this field, with a particular focus on applications in electronics, sensing  and other emerging technologies.
 
-
-=== Confirmed Invited Speakers (updating):
+[#invited-speakers]
+=== Confirmed Invited Speakers
 
 * *Thomas Sand Jespersen* (Technical University of Denmark) "Quantum Transport and Devices based on LAO/STO freestanding micro-membranes"
 * *Jalan Bharat* (University of Minnesota, USA): "Oxide Bicrystals: A Route to Interfacial Quasicrystals"
 
+[#committee]
 === Organizing Committee
 
-Dr. *Alessia Sambri* CNR-SPIN (Italy) +
-Prof. *Emiliano Di Gennaro* University of Naples Federico II (Italy) +
-Dr. *Fabio Miletto Granozio* CNR-SPIN (Italy)
+* Dr. *Alessia Sambri* CNR-SPIN (Italy) +
+* Prof. *Emiliano Di Gennaro* University of Naples Federico II (Italy) +
+* Dr. *Fabio Miletto Granozio* CNR-SPIN (Italy)
 
+[#important-dates]
 === Important Dates
 
-*Abstract submission*: 31 May- 15 July +
+*Abstract submission*: 31 May - 15 July +
 *Abstract acceptance*: 5 August
 
-=== Venue
+[#submit]
+== *Submit your abstract*
+Abstracts can be submitted for the following types of presentation:
 
+[upperalpha]
+. Contributed talk (17 + 3' min)
+. Poster (A0 size, portrait layout - width 841 mm × height 1189 mm)
+
+The abstract should be prepared using the provided MS Word template. +
+You can download the MS Word template link:https://docs.google.com/document/d/1aLzPdoWwwza7GMTc_eNqqd6MoVk_MPvZ/view?tab=t.0[*here*^], +
+and you can submit your abstract link:https://forms.gle/bpG2iDZDoG8ZCHXp9[*here*^].
+
+[#agenda]
+=== Agenda
+// Tilde usato come simbolo di approssimazione, deve essere escaped con la ++ notation
+The workshop will begin on the *20^th^ October at ++~++9:30*, and will end on the *21^th^ October at ++~++16:30*.
+
+[#venue]
+=== Venue
 Centro Congressi Partenope, Sala A Via Partenope, 36 - Napoli (link:https://www.centrocongressi.unina.it/via-partenope/[more info^])
 
+[#contacts]
 === Contacts
-*Organizing Secretariat*: link:mailto:info@jeangillder.it[info@jeangillder.it^]
+*Organizing Secretariat | Scientific Communication srl*: link:mailto:info@jeangilder.it[info@jeangilder.it^]
 
 // Copiare i file in /content/laboratories/*.md per popolare questa sezione. Occorrono foto e dettagli. 
