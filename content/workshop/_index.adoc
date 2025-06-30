@@ -4,6 +4,7 @@ date: 2025-05-21
 heroHeading: 'Final Workshop'
 heroSubHeading: ''
 #heroBackground: ''
+excludeSummary: true
 ---
 
 [#the-workshop]
@@ -88,6 +89,11 @@ The workshop will begin on the *20^th^ October at ++~++9:30*, and will end on th
 [#venue]
 === Venue
 Centro Congressi Partenope, Sala A Via Partenope, 36 - Napoli (link:https://www.centrocongressi.unina.it/via-partenope/[more info^])
+
+[#hotel]
+=== Hotels in Naples
+A number of hotels near the venue offer fixed rates to FOXES/OMEGA participants. +
+A list of said hotels and more details are available link:hotel[*here*].
 
 [#contacts]
 === Contacts
