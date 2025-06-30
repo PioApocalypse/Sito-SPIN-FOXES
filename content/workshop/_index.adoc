@@ -33,6 +33,41 @@ This Workshop aims at bringing together the Research Community working on Freest
 *Abstract submission*: 31 May - 15 July +
 *Abstract acceptance*: 5 August
 
+---
+
+[#registration]
+== *Registration*
+*Complete the registration form link:https://forms.gle/RvLZEaSLi74rC42s9[here^].*
+
+Deadline for registration is *10^th^ October 2025*. +
+The registration fee is *EUR 100* and includes:
+
+* Attendance to all scientific sessions;
+* Packed lunches and coffee breaks;
+* *Social dinner* on October 20th at restaurant _“La Bersagliera”_, Borgo Marinari 10/11, Naples.
+
+*The payment of the registration fee should be made via bank transfer to*:
+
+* *Bank holder*: _Scientific Communication srl_
+* *IBAN*: _IT55 C032 9601 6010 0006 4359 714_
+* *SWIFT* (BIC): _FIBKITMM_
+* *Bank name*: _BANCA FIDEURAM - Intesa Sanpaolo Private Banking SpA_
+* *Bank address*: _Via Melchiorre Gioia 22, 20124 Milano_
+
+In the reason for payment, please indicate: “*FOXES, _Family Name_, _Name_*”.
+
+Bank transfers must be made in EURO. The transfer amount is expected to be delivered in full to the beneficiary. Please send us an email with a copy of the bank transfer payment to the Organizing Secretariat at info@jeangilder.it
+
+[#invoices]
+=== Invoices
+Please indicate on the registration form to whom the invoice should be addressed.
+
+[#cancellation-policy]
+=== Cancellation policy
+Cancellations must be notified in writing to Scientific Communication srl. Cancellations received prior to 15 September 2025 will be entitled to a full refund minus any expenses (e.g. bank charges) and EUR 20 for cancellation fee. Later cancellations will not be refunded. Substitute delegates will be accepted. Registration can only be confirmed once payment is received.
+
+---
+
 [#submit]
 == *Submit your abstract*
 Abstracts can be submitted for the following types of presentation:
