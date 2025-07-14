@@ -20,7 +20,7 @@ This Workshop aims at bringing together the Research Community working on Freest
 
 * *Thomas Sand Jespersen* (Technical University of Denmark) "Quantum Transport and Devices based on LAO/STO freestanding micro-membranes"
 * *Jalan Bharat* (University of Minnesota, USA): "Oxide Bicrystals: A Route to Interfacial Quasicrystals"
-* *Milan Radovic* (Paul Scherrer Institute PSI, Switzerland): "Complex Oxide Membranes as Platforms for the Growth of Freestanding Heterostructures"
+* *Milan Radovic* (PSI Center for Photon Science, Paul Scherrer Institut, Switzerland): "Complex Oxide Membranes as Platforms for the Growth of Freestanding Heterostructures"
 
 [#committee]
 === Organizing Committee
@@ -32,8 +32,9 @@ This Workshop aims at bringing together the Research Community working on Freest
 [#important-dates]
 === Important Dates
 
-*Abstract submission*: 31 May - 15 July +
-*Abstract acceptance*: 5 August
+*Abstract submission extended deadline*: 27 July +
+*Abstract acceptance*: 5 August +
+*Deadline for registration*: 10 October
 
 ---
 
