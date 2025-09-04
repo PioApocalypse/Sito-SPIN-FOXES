@@ -21,7 +21,7 @@ This Workshop aims at bringing together the Research Community working on Freest
 * *Thomas Sand Jespersen* (Technical University of Denmark) "Quantum Transport and Devices based on LAO/STO freestanding micro-membranes"
 * *Jalan Bharat* (University of Minnesota, USA): "Oxide Bicrystals: A Route to Interfacial Quasicrystals"
 * *Milan Radovic* (PSI Center for Photon Science, Paul Scherrer Institut, Switzerland): "Complex Oxide Membranes as Platforms for the Growth of Freestanding Heterostructures"
-* *Yuefeng Nie* (Nanjing University, China): "Ferroelectric topologies in BaTiO3 nanomembranes for light field manipulation"
+* *Yuefeng Nie* (Nanjing University, China): "Ferroelectric Topologies in BaTiO3 Nanomembranes for Light Field Manipulation"
 * *Ming Liu* (Xi'an Jiaotong University, China): "Free-standing Ferroelectric and Magnetoelectric single crystal Membranes with super-elasticity"
 
 [#committee]
