@@ -88,7 +88,12 @@ and you can submit your abstract link:https://forms.gle/bpG2iDZDoG8ZCHXp9[*here*
 [#agenda]
 === Agenda
 // Tilde usato come simbolo di approssimazione, deve essere escaped con la ++ notation
-The workshop will begin on the *20^th^ October at ++~++9:30*, and will end on the *21^th^ October at ++~++16:30*.
+The workshop will begin on the *20^th^ October at ++~++9:30*, and will end on the *21^th^ October at ++~++13:10*.
+
+The programme of the workshop is available for download link:/FOXES_20-21oct.pdf[*here*^]. Preview:
+
+image:/work/FOXES_workshop_calendar.png[title="Calendar", width="100%", link=/work/FOXES_workshop_calendar.png, window=_blank]
+
 
 [#venue]
 === Venue
