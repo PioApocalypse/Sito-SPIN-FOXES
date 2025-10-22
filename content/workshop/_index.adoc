@@ -6,6 +6,7 @@ heroSubHeading: ''
 #heroBackground: ''
 excludeSummary: true
 ---
+:figure-caption!:
 
 [#the-workshop]
 == The Workshop “Freestanding Oxide Membranes: science and applications”, will be held on October 20-21, 2025, in Naples, Italy.
@@ -30,6 +31,14 @@ This Workshop aims at bringing together the Research Community working on Freest
 * Dr. *Alessia Sambri* CNR-SPIN (Italy) +
 * Prof. *Emiliano Di Gennaro* University of Naples Federico II (Italy) +
 * Dr. *Fabio Miletto Granozio* CNR-SPIN (Italy)
+
+[#book-of-abstracts]
+=== Book of Abstracts
+*The book of abstracts can be downloaded link:/work/FOXES_abstract_book.pdf[here^].*
+
+image::/work/FOXES_group_photo_cropped.jpeg[title="Group photo. Click for full-size.", width="80%", link=/work/FOXES_group_photo.jpeg, window=_blank]
+
+{nbsp} +
 
 [#important-dates]
 === Important Dates
@@ -90,10 +99,11 @@ and you can submit your abstract link:https://forms.gle/bpG2iDZDoG8ZCHXp9[*here*
 // Tilde usato come simbolo di approssimazione, deve essere escaped con la ++ notation
 The workshop will begin on the *20^th^ October at ++~++9:30*, and will end on the *21^th^ October at ++~++13:10*.
 
-The programme of the workshop is available for download link:/FOXES_20-21oct.pdf[*here*^]. Preview:
+The programme of the workshop is available for download link:/FOXES_20-21oct.pdf[*here*^].
 
-image:/work/FOXES_workshop_calendar.png[title="Calendar", width="100%", link=/work/FOXES_workshop_calendar.png, window=_blank]
+image::/work/FOXES_workshop_calendar.png[title="Preview of the programme. Click to open.", width="100%", link=/work/FOXES_workshop_calendar.png, window=_blank]
 
+{nbsp} +
 
 [#venue]
 === Venue
