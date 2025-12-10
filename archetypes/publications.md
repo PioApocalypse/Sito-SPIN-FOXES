@@ -1,5 +1,6 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
+doi: ''
 date: {{ .Date }}
 year: ''
 featured: true
@@ -7,6 +8,7 @@ draft: true
 weight: 1
 authors: ''
 copyright: ''
+openaccess: ''
 pubImage: ''
 ---
 
