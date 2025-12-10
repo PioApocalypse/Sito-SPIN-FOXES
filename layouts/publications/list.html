@@ -21,7 +21,7 @@
   <div class="row">
     {{ range .Pages.ByWeight }}
 
-    {{ if lt .Params.year 2025 }}
+    {{ if lt .Params.year 2027 }} <!-- Perché esiste questo if ?! -->
       <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
       {{ end }}
 
