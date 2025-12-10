@@ -61,14 +61,19 @@ ignoreLogs = ['warning-goldmark-raw-html'] # Sopprime warn 'Raw HTML omitted whi
     weight = 5
 
 [[menu.main]]
-	name = 'Publications'
-	url = '/publications/'
+	  name = 'Publications'
+	  url = '/publications/'
     weight = 6
 
+# [[menu.main]]
+#     name = 'Headquarters'
+#     url = '/hq/'
+#     weight = 7
+
 [[menu.main]]
-    name = 'Headquarters'
-    url = '/hq/'
-    weight = 7
+	name = 'Dissemination'
+	url = '/dissemination/'
+  weight = 8
 
 [permalinks]
   post = '/:year/:month/:day/:slug/'
