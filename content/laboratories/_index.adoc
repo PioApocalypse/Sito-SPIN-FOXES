@@ -1,0 +1,16 @@
+---
+title: 'Laboratories'
+date: 2024-12-13T14:00:00
+heroHeading: 'Laboratories'
+heroSubHeading: 'Our workplaces in Italy'
+heroBackground: ''
+---
+
+As stated in the link:/project[abstract], this project is the result of a joint work between link:https://www.spin.cnr.it/[CNR-SPIN^] (Naples 
+and Salerno) and the University of Naples «Federico II»'s link:https://www.fisica.unina.it/en_GB/home[Department of Physics "Ettore Pancini"^].
+SPIN Naples and the department share the same physical address.
+
+* *Email*: alessia.sambri@spin.cnr.it
+* *Address*: +
+Via Cintia, Complesso Universitario di Monte Sant'Angelo +
+Edificio n. 6, 80126 Napoli, Italy 
