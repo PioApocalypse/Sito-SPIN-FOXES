@@ -10,6 +10,6 @@
     </h2>
     <p style="font-size: smaller;">DOI: <a href="https://doi.org/{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a></p>
     {{ .Params.authors }}
-    <!-- {{ .Content | truncate 200 "..." }} -->
+    {{ .Content | truncate 300 "..." }}
   </div>
 </div>
