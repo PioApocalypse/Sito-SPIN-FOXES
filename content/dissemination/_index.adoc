@@ -1,0 +1,36 @@
+---
+title: 'Dissemination'
+date: 2025-05-21
+heroHeading: 'Dissemination'
+heroSubHeading: ''
+#heroBackground: ''
+excludeSummary: true
+---
+:figure-caption!:
+
+[#fismat2025]
+== FisMat2025 Conference, Venice (Italy) - link:https://eventi.cnism.it/fismat2025[Link^]
+
+. Freestanding epitaxial oxide micro-membrans grown by strain-engineering PLD: insights and perspectives +
+++A.++ Sambri, General Session Functional Oxides, 08/07/2025 (Invited).
+. Micromanipulation and characterization of freestanding oxide hetero-membranes grown by RHEED-PLD method +
+++A.++ Guarino, Tematic Workshop Low dimensional materials, 09/07/2025.
+
+[#111-sif-congress]
+== 111° SIF Congress, Palermo (Italy) - link:https://www.sif.it/attivita/congresso/111[Link^]
+
+- Spalled freestanding oxides micro-membranes: method, results and perspectives, +
+++A.++ Sambri, Sezione II Fisica della Materia, 26/09/2025.
+
+[#foxes-workshop]
+== Workshop "Freestanding Oxide Membranes: Science and Applications", Naples (Italy) - link:https://www.foxes.spin.cnr.it/workshop/[Link]
+
+. Spalled freestanding oxides micro-membranes: advantages, challenges and perspectives +
+++A.++ Sambri, 21/10/2025
+. Micromanipulation and characterization of freestanding oxide hetero-membranes grown by RHEED-PLD method +
+++A.++ Guarino, 21/10/2025
+
+[#dqmp-geneva]
+== DQMP informal Seminar, University of Geneva (CH)
+- Spalled freestanding oxides micro-membranes fabricated by Pulsed Laser Deposition +
+++A.++ Sambri,Salle de réunion MaNEP 13/11/2025 
