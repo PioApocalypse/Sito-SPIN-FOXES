@@ -1,5 +1,5 @@
 baseURL = 'https://www.foxes.spin.cnr.it/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'FOXES'
 themeDir = 'themes'
 theme = 'hugo-hero-theme'
