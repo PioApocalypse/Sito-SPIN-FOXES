@@ -33,3 +33,7 @@ FOXES project aims to investigate in detail this process in order to:
 **Project ID**: P2022TCT72 +
 **Duration**: Nov 2023 - Nov 2025 +
 **Budget**: 226.820 Euro 
+
+image:/logos/eu_funded.png[title="EU Funded",height="60",link="https://next-generation-eu.europa.eu/index_it",window=_blank]
+image:/logos/MUR.png[title="Funded by MUR",height="60",link="https://www.mur.gov.it/it",window=_blank]
+image:/logos/italia_domani.png[title="Italia Domani",height="60",link="https://www.italiadomani.gov.it/content/sogei-ng/it/it/home.html",window=_blank]
